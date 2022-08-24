@@ -20,7 +20,9 @@ I am Rizki, a computer scientist turned synthetic biologist. I am very passionat
 ### Key skills
 
 Programming: Python, R, Java, Scala, C/C++, PHP, Matlab
+
 Database: SQL, MongoDB
+
 Cloud platform: Google Cloud Platform, Amazon Web Services, Microsoft Azure
 
 Wet-lab: Molecular genetics assays (PCR, gel electrophoresis, etc.), Recombinant DNA techniques (MoClo/Golden Gate, Gibson), Flow Cytometry
