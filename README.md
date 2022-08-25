@@ -21,7 +21,7 @@ I am Rizki, a computer scientist turned synthetic biologist. I am very passionat
 
 Programming: Python (pandas, scikit-learn, pymc3, statsmodels, keras, flask), R, Java, Scala, C/C++, PHP, Matlab
 
-Database: SQL, MongoDB
+Data engineering: SQL, MongoDB, Airflow, Kafka, Sparks
 
 Cloud platform: Google Cloud Platform, Amazon Web Services, Microsoft Azure
 
